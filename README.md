@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/riclees75/RicTestPipeline/_apis/build/status/rjlees.pipelines-java?branchName=master)](https://dev.azure.com/riclees75/RicTestPipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
